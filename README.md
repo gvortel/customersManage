@@ -1,2 +1,3 @@
 # customersManage
-Python Application for the management of customers of telephone connections of a telecommunications company + GUI
+Python Application 
+Management of customers of telephone connections of a telecommunications company + GUI
